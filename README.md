@@ -1,7 +1,6 @@
 # Multi-Modal Emotion Recognition for Individuals with Disabilities
 
-**Funding**: $5000 (Grant received: $1500)  
-[**GitHub Repository**](Link to your GitHub)
+**Grant**: $5000 
 
 ## Project Focus
 Developed an **AI-driven application** designed to provide tailored language outputs for individuals with **speech-related disabilities** by integrating **computer vision** and **natural language processing (NLP)**. The system generates comprehensive language outputs by analyzing sentiment and combining speech and written inputs with a language model like **GPT-3**.
