@@ -25,8 +25,4 @@ Developed an **AI-driven application** designed to provide tailored language out
 ## Future Plans  
 Secured additional research funding for the acquisition of **IoT devices**, including an **EEG device**, to further enhance the system's ability to understand and analyze emotional states in real-time.  
 
-## Getting Started  
-
-### Installation  
-To set up the project locally, follow these steps:  
 
